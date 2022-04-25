@@ -1,0 +1,64 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #191970;
+}
+
+a {
+  color: #191970;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: #EEE685;
+  text-decoration: underline;
+}
+
+p.elemento {
+  margin: 1px;
+}
+
+div.immagine {
+  text-align: center;
+}
+
+#infogenerali {
+  background-color: #B7B7B7;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border: 1.5px solid #191970;
+}
+
+div.sezione {
+  background-color: #458B74;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #F5F5F5;
+}
+
+#corsi2022 {
+  background-color: #B7B7B7;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border: 1.5px solid #191970;
+}
+
+#tesitirocini {
+  background-color: #B7B7B7;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border: 1.5px solid #191970;
+}
