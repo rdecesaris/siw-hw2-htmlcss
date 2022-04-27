@@ -7,6 +7,11 @@ h1 {
   color: #191970;
 }
 
+div.immagine {
+  text-align: center;
+  witdh: 15%;
+}
+
 a {
   color: #191970;
   text-decoration: none;
@@ -20,10 +25,6 @@ a:hover {
 
 p.elemento {
   margin: 1px;
-}
-
-div.immagine {
-  text-align: center;
 }
 
 #infogenerali {
